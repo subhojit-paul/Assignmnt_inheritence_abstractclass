@@ -1,0 +1,9 @@
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\bin\Debug\VehicleType.pdb
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\bin\Debug\VehLib.dll
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\bin\Debug\VehLib.pdb
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\obj\Debug\VehicleType.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\obj\Debug\VehicleType.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\obj\Debug\VehicleType.csproj.CopyComplete
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\obj\Debug\VehicleType.pdb
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\bin\Debug\VehicleType.exe
+F:\Training_Days\Training_DotNetConsoleApp\VehicleType\VehicleType\obj\Debug\VehicleType.exe

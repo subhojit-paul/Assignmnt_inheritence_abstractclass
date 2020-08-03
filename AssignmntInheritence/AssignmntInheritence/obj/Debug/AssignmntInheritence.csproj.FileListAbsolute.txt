@@ -1,0 +1,7 @@
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\bin\Debug\AssignmntInheritence.exe.config
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\bin\Debug\AssignmntInheritence.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\bin\Debug\AssignmntInheritence.pdb
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\obj\Debug\AssignmntInheritence.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\obj\Debug\AssignmntInheritence.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\obj\Debug\AssignmntInheritence.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmntInheritence\AssignmntInheritence\obj\Debug\AssignmntInheritence.pdb

@@ -1,0 +1,7 @@
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe.config
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.pdb
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.exe
+F:\Training_Days\Training_DotNetConsoleApp\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.pdb
